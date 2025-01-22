@@ -100,5 +100,6 @@
     src="https://github-readme-stats.vercel.app/api?username=MariMirand&show_icons=true&theme=synthwave&include_all_commits=true&locale=pt-br" 
   /> 
 </p> 
+<br>
 
 ![Kirby Sticker - Kirby - Discover   Share GIFs](https://github.com/user-attachments/assets/cb552999-32c2-4935-ae41-9cd8e97cd55e)
