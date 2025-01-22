@@ -1,8 +1,8 @@
 ## OLá, Eu sou a Mariana 👋
 **`Dev Front-End`** **`Gestão de TI`** **`Analista de Negócios`**
-- 🩷 Pronouns: Ela/Dela
-- 💬 Contate-me: marianamiranda2069@gmail.com 
-- 🌱 Estudando: Front-End & Ux Designer
+- ❤️ Pronouns: Ela/Dela
+- 💙 Contate-me: marianamiranda2069@gmail.com 
+- 💚 Estudando: Front-End & Ux Designer
 - Me chamo Mariana Miranda, tenho 19 anos e sou natural de São Paulo. Atualmente, estou cursando Gestão da Tecnologia da Informação na FATEC de Itaqua. 
 
   
